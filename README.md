@@ -1,3 +1,3 @@
 # design-patterns
 
-01. [Strategy](https://github.com/GJayme/birthday-reminder)
+01. [Strategy](https://github.com/GJayme/design-pattern-strategy)
