@@ -7,7 +7,6 @@
 4. [Builder]()
 5. [Prototype]()
 6. [Singleton]()
-7. 
 
 ## Structural Patterns:
 1. [Adapter]()
