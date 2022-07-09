@@ -5,4 +5,4 @@
 03. [Decorator](https://github.com/GJayme/design-pattern-decorator) 
 04. [Factory-Pizza](https://github.com/GJayme/design-patterns-factory) 
 05. [Factory-Iphone](https://github.com/GJayme/factory-iphone)
-06. [Abstract-Factory](https://github.com/GJayme/abstract-factory}
+06. [Abstract-Factory](https://github.com/GJayme/abstract-factory)
