@@ -6,7 +6,7 @@
 3. [Abstract-Factory](https://github.com/GJayme/abstract-factory)
 4. [Builder]
 5. [Prototype]
-6. [Singleton]
+6. [Singleton](https://github.com/GJayme/singleton)
 
 ## Structural Patterns:
 1. [Adapter]
