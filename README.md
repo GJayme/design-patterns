@@ -7,6 +7,7 @@
 4. [Builder]
 5. [Prototype]
 6. [Singleton](https://github.com/GJayme/singleton)
+7. [Monostate](https://github.com/GJayme/monostate)
 
 ## Structural Patterns:
 1. [Adapter]
