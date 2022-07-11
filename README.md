@@ -25,7 +25,6 @@
 5. [Memento]
 6. [Observer](https://github.com/GJayme/design-pattern-observer)
 7. [State]
-8. [State]
 10. [Strategy](https://github.com/GJayme/design-pattern-strategy)
 11. [Template Method]
 12. [Visitor]
