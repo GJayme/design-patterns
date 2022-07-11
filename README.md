@@ -4,7 +4,7 @@
 1. [Factory-Pizza](https://github.com/GJayme/design-patterns-factory) 
 2. [Factory-Iphone](https://github.com/GJayme/factory-iphone)
 3. [Abstract-Factory](https://github.com/GJayme/abstract-factory)
-4. [Builder]
+4. [Builder](https://github.com/GJayme/builder)
 5. [Prototype]
 6. [Singleton](https://github.com/GJayme/singleton)
 7. [Monostate](https://github.com/GJayme/monostate)
